@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentCar.Entities", "RentCar.Entities\RentCar.Entities.csproj", "{880E848E-19FD-4C45-90A5-92A700D8F425}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentCar.DataAccsess", "RentCar.DataAccsess\RentCar.DataAccsess.csproj", "{6147BD75-8420-414F-ADB8-D861EA4D339F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentCar.Business", "RentCar.Business\RentCar.Business.csproj", "{556B3814-ED48-4976-AFE2-1918EAB1149A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{880E848E-19FD-4C45-90A5-92A700D8F425}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{880E848E-19FD-4C45-90A5-92A700D8F425}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{880E848E-19FD-4C45-90A5-92A700D8F425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6147BD75-8420-414F-ADB8-D861EA4D339F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6147BD75-8420-414F-ADB8-D861EA4D339F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6147BD75-8420-414F-ADB8-D861EA4D339F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6147BD75-8420-414F-ADB8-D861EA4D339F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{556B3814-ED48-4976-AFE2-1918EAB1149A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556B3814-ED48-4976-AFE2-1918EAB1149A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556B3814-ED48-4976-AFE2-1918EAB1149A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556B3814-ED48-4976-AFE2-1918EAB1149A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
